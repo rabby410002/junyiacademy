@@ -18,7 +18,7 @@ for i in range(1,count+1):
         count-=1
         if  (i%3==0 and i%5==0):
             count+=1      
-    print('total:',count)
+print('total:',count)
     
         
 
